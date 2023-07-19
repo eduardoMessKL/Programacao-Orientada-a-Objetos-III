@@ -9,7 +9,7 @@ interface DatabaseItem{
 const Database: DatabaseItem[] = [
     //Permissão ADMIN.
     {email:"eduardo@gmail.com", 
-    password: "abcd",
+    password: "abcdefg",
     permission: PermissionType.ADMIN},
 
     //Permissão USER.
